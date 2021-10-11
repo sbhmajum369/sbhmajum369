@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Subra, a Research Engineer.
-- 👀 I’m interested in Applied projects, specially in Artificial Intelligence domain.
-- 💞️ I’m looking to collaborate on Applied Software Projects. Better, if on AI.
+- 👋 Hi, I’m Subra.
+- 👀 I’m a Machine Learning Software Developer.
+- 💞️ I’m open to collaborate on Applied Software Projects. Better, if on AI.
 - 📫 Reach me at majum.subh@gmail.com.
 
 <!---
